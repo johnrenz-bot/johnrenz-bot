@@ -74,12 +74,6 @@ For opportunities or collaborations, reach out via:
 - 📞 **Phone:** [+63 966 798 7702](tel:+639667987702)  
 - 💼 **LinkedIn:** [linkedin.com/in/john-renz-96a77728b](https://linkedin.com/in/john-renz-96a77728b) — preferred for professional communication
 
----
-
-![](https://github-readme-stats.vercel.app/api?username=johnrenz-bot&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=johnrenz-bot&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=johnrenz-bot&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
----
 
 
 
