@@ -5,7 +5,7 @@
 Hi! I’m **John Renz Bandianon**, an intermediate student developer focused on building modern, responsive, and user-centered web applications.  
 I work primarily with **HTML**, **CSS**, **Tailwind CSS**, and **Bootstrap**, creating clean and structured interfaces that prioritize usability and visual clarity.  
 
-On the backend, I’m steadily improving my skills with **PHP** and **MySQL**, building functional, database-driven features. While I continue to explore tools like **React**, **JavaScript**, **Laravel**, and **Node.js**, my current focus is strengthening my core foundations and applying them to real hands-on projects.  
+On the backend, I’m steadily improving my skills with **PHP**,  **JavaScript** ,  **MySQL** and **JAVA**, building functional, database-driven features. While I continue to explore tools like **React**,  **Laravel**,  **Express-JS**,  **Prisma**,  **PostgreSQL**, and **Node.js**, my current focus is strengthening my core foundations and applying them to real hands-on projects.  
 
 I’ve also built experience through my **Capstone Project**, where I combine frontend and backend concepts to develop a practical school-based system. Alongside this, I consistently create **solo projects** to sharpen my problem-solving, UI layout, and overall development workflow. These experiences — both academic and self-directed — have helped me grow steadily as a student developer.  
 
