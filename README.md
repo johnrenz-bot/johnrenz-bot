@@ -14,15 +14,6 @@ I’m committed to becoming a reliable and well-rounded **full-stack developer**
 
 ---
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/john-renz-96a77728b)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://facebook.com/john.r.bandianon)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/wiieidjxhdshehe)
-[![X](https://img.shields.io/badge/X-black.svg?logo=x&logoColor=white)](https://x.com/@JohnRen94949414)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dark_soul15)
-
----
-
 
 # 💻 Tech Stack
 
@@ -88,32 +79,16 @@ For opportunities or collaborations, reach out via:
 
 ---
 
-## 📊 GitHub Stats
-
 ![](https://github-readme-stats.vercel.app/api?username=johnrenz-bot&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=johnrenz-bot&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=johnrenz-bot&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=johnrenz-bot&theme=radical&no-bg=true)
 
----
-
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=johnrenz-bot&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=johnrenz-bot&icon=2&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->  
 
 
-## 🤝 Collaboration
-Open to PRs, UI/UX suggestions, interaction ideas, and feature enhancements.  
-Please provide a short explanation and expected outcome for each contribution.
-
----
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
