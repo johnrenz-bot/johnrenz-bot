@@ -2,15 +2,13 @@
 
 ## 💫 About Me
 
-Hi! I’m **John Renz Bandianon**, an intermediate student developer focused on building modern, responsive, and user-centered web applications.  
-I work primarily with **HTML**, **CSS**, **Tailwind CSS**, and **Bootstrap**, creating clean and structured interfaces that prioritize usability and visual clarity.  
+Hi! I’m John Renz Bandianon, an intermediate student developer focused on building modern and user-friendly web applications. I work primarily with HTML, CSS, Tailwind, and Bootstrap to create clean and responsive interfaces.
 
-On the backend, I’m steadily improving my skills with **PHP**,  **JavaScript** ,  **MySQL** and **JAVA**, building functional, database-driven features. While I continue to explore tools like **React**,  **Laravel**,  **Express-JS**,  **Prisma**,  **PostgreSQL**, and **Node.js**, my current focus is strengthening my core foundations and applying them to real hands-on projects.  
+I’m improving my backend skills with PHP, JavaScript, MySQL, and Java, and currently exploring tools like React, Laravel, Express, and Node.js as I strengthen my core foundations through real projects.
 
-I’ve also built experience through my **Capstone Project**, where I combine frontend and backend concepts to develop a practical school-based system. Alongside this, I consistently create **solo projects** to sharpen my problem-solving, UI layout, and overall development workflow. These experiences — both academic and self-directed — have helped me grow steadily as a student developer.  
+I’ve applied what I’ve learned through my Capstone Project and several solo projects, helping me grow both academically and independently as a developer.
 
-I’m committed to becoming a reliable and well-rounded **full-stack developer** through continuous practice, real-world application, and a strong passion for building meaningful and user-friendly digital solutions.
-
+I’m committed to becoming a reliable full-stack developer through continuous learning, hands-on experience, and building meaningful digital solutions.
 
 ---
 
