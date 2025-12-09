@@ -1,18 +1,10 @@
-# 👋 WELCOME to John Renz' GitHub
-
-## 💫 About Me
-
 Hi! I’m John Renz Bandianon, an intermediate student developer focused on building modern and user-friendly web applications. I work primarily with HTML, CSS, Tailwind, and Bootstrap to create clean and responsive interfaces.
 
 I’m improving my backend skills with PHP, JavaScript, MySQL, and Java, and currently exploring tools like React, Laravel, Express, and Node.js as I strengthen my core foundations through real projects.
 
 I’ve applied what I’ve learned through my Capstone Project and several solo projects, helping me grow both academically and independently as a developer.
 
-I’m committed to becoming a reliable full-stack developer through continuous learning, hands-on experience, and building meaningful digital solutions.
-
 ---
-
-
 # 💻 Tech Stack
 
 ### 🔹 Frontend
