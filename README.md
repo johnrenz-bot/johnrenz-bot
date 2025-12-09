@@ -1,11 +1,5 @@
-Hi! I’m John Renz Bandianon, an intermediate student developer focused on building modern and user-friendly web applications. I work primarily with HTML, CSS, Tailwind, and Bootstrap to create clean and responsive interfaces.
 
-I’m improving my backend skills with PHP, JavaScript, MySQL, and Java, and currently exploring tools like React, Laravel, Express, and Node.js as I strengthen my core foundations through real projects.
-
-I’ve applied what I’ve learned through my Capstone Project and several solo projects, helping me grow both academically and independently as a developer.
-
----
-# 💻 Tech Stack
+#  Tech Stack
 
 ### 🔹 Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -41,12 +35,6 @@ I’ve applied what I’ve learned through my Capstone Project and several solo 
 ![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 
 
-### 🎮 Games
-
-![Epic Games](https://img.shields.io/badge/Epic_Games-333333?style=for-the-badge&logo=epic-games&logoColor=white)
-![Riot Games](https://img.shields.io/badge/Riot_Games-FF4655?style=for-the-badge&logo=riot-games&logoColor=white)
-![Xbox](https://img.shields.io/badge/Xbox-2E7D32?style=for-the-badge&logo=xbox&logoColor=white)
-![Steam](https://img.shields.io/badge/Steam-0A1B2A?style=for-the-badge&logo=steam&logoColor=white)
 
 ---
 
