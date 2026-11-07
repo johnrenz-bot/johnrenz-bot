@@ -1,158 +1,78 @@
 
-# Hi, I'm John Renz Bandianon 👋
+# John Renz C. Bandianon
 
-### Full-Stack Developer · Software Developer · QA Enthusiast
+**Software Developer | Full-Stack Development | Quality Assurance**
 
-I'm a software developer based in **Marilao, Bulacan, Philippines**, passionate about building functional, reliable, and user-friendly digital experiences.
+Based in Bulacan, Philippines. I build web applications, work with backend systems, and focus on functionality, usability, and software quality.
 
-I work across the full development lifecycle—from designing interfaces and developing backend systems to testing, debugging, and refining applications. I value clean implementation, practical problem-solving, and creating software that works as well as it looks.
+BS Information Technology, STI College San Jose del Monte (2022–2026).
 
-🎓 **BS Information Technology Graduate** — STI College San Jose del Monte (2022–2026)
-
-🌐 [Portfolio](https://johnrenz.vercel.app/) · [LinkedIn](https://linkedin.com/in/john-renz-96a77728b) · [Email](mailto:johnrenzbandianon9@gmail.com)
+[Portfolio](https://johnrenz.vercel.app/) · [LinkedIn](https://linkedin.com/in/john-renz-96a77728b) · [Email](mailto:johnrenzbandianon9@gmail.com)
 
 ---
 
-## 🚀 Featured Projects
+### Projects
 
-### 1. Team Padua Client Management Portal
+**[Team Padua Client Management Portal](https://tpclientportal.vercel.app/)**
+ 
+Full-stack client management portal developed during my internship at Sun Life. Features authentication, role-based access, task management, attendance monitoring, analytics, real-time synchronization, and internal messaging.
 
-**Full-Stack Development | Sun Life Internship**
+`Next.js` `TypeScript` `Tailwind CSS` `Supabase`
 
-A client management portal developed during my internship at Sun Life, designed to streamline internal workflows and improve team coordination.
+**[Groove — Appointment & User Management Platform](https://grooveph.vercel.app/)**
 
-- Implemented authentication and role-based access control for Admin, Advisor, and Intern roles.
-- Developed task management, attendance monitoring, and analytics features.
-- Integrated real-time data synchronization and internal messaging.
-- Contributed to building a structured and user-friendly management interface.
+Capstone project where I led a team of three. Developed REST APIs, role-based access control, appointment scheduling, Google Maps integration, and an AI-powered chat assistant.
 
-**Tech Stack:** Next.js · TypeScript · Tailwind CSS · Supabase
+`React` `Laravel` `PHP` `MySQL`
 
-🔗 [View Live Project](https://tpclientportal.vercel.app/)
+**REEFER Clothing & Icebreaker App**
 
-### 2. Groove — Appointment & User Management Platform
+UI/UX design projects involving wireframes, user flows, prototypes, and reusable design components.
 
-**Capstone Project | Team Lead & Full-Stack Developer**
-
-A web-based appointment and user management platform built to connect clients and service providers through an organized booking experience.
-
-- Led a development team of three members.
-- Designed and implemented RESTful APIs using Laravel.
-- Developed role-based access control and user management.
-- Integrated Google Maps for location-based functionality.
-- Implemented appointment scheduling and an AI-powered chat assistant.
-- Worked across frontend development, backend integration, and database management.
-
-**Tech Stack:** React · Laravel · PHP · MySQL
-
-🔗 [View Live Project](https://grooveph.vercel.app/)
-
-### 3. REEFER Clothing & Icebreaker App
-
-**UI/UX Design | Figma**
-
-A collection of interface design projects focused on usability, visual consistency, and user experience.
-
-- Created wireframes and user flows.
-- Designed high-fidelity user interfaces.
-- Developed interactive prototypes.
-- Organized reusable components and design elements.
-
-**Tools:** Figma
+`Figma`
 
 ---
 
-## 💼 Professional Experience
+### Experience
 
-| Position | Organization | Period |
-|:---|:---|:---:|
-| Full-Stack Developer & ASA Intern | Sun Life of Canada (PH) | Jun–Jul 2026 |
-| Website UI/UX Designer (OJT) | Alpha Centauri Garments | Mar–Jun 2026 |
-| QA & UI Support Intern | BoxHive Digital Solutions | Apr–Jun 2026 |
-| Capstone Team Lead & Full-Stack Developer | Groove | Mar–Nov 2025 |
-
-**Areas of Experience:**
-
-- Full-Stack Web Development
-- Frontend & Backend Integration
-- UI/UX Design and Implementation
-- Software Testing and Quality Assurance
-- Database Management
-- API Development and Integration
-- Debugging and Troubleshooting
+- Full-Stack Developer & ASA Intern — Sun Life of Canada (PH) · Jun–Jul 2026
+- Website UI/UX Designer (OJT) — Alpha Centauri Garments · Mar–Jun 2026
+- QA & UI Support Intern — BoxHive Digital Solutions · Apr–Jun 2026
+- Capstone Team Lead & Full-Stack Developer — Groove · Mar–Nov 2025
 
 ---
 
-## 🛠️ Technical Skills
+### Technical Skills
 
-**Languages**
-- JavaScript
-- TypeScript
-- PHP
-- SQL
-- HTML5
-- CSS3
+**Languages:** JavaScript, TypeScript, PHP, SQL, HTML, CSS
 
-**Frameworks & Libraries**
-- React.js
-- Next.js
-- Laravel
-- Tailwind CSS
+**Frameworks:** React, Next.js, Laravel, Tailwind CSS
 
-**Backend & Databases**
-- RESTful APIs
-- Supabase
-- PostgreSQL
-- MySQL
+**Backend & Databases:** REST APIs, Supabase, PostgreSQL, MySQL
 
-**Testing & Quality Assurance**
-- Manual Testing
-- Unit Testing
-- Debugging
-- Bug Tracking
-- Functional Testing
+**Testing:** Manual Testing, Unit Testing, Functional Testing, Debugging, Bug Tracking
 
-**Tools & Platforms**
-- Git & GitHub
-- Vercel
-- Figma
-- Notion
-- ClickUp
+**Tools:** Git, GitHub, Vercel, Figma, Notion, ClickUp
 
 ---
 
-## 📜 Certifications & Training
+### Certifications
 
 - Google UX Design Certificate
-- Google Developer Groups (GDG) Certificate — GDG Cloud Manila
+- GDG Cloud Manila Certificate
 - Accenture Skills Training
 - SAP Business One
 - Java Foundations
 
 ---
 
-## 🌱 Currently Exploring
+### Interests
 
-- Agentic AI and AI-powered development tools
-- Modern full-stack development practices
-- Software quality assurance and testing
-- Better UI/UX implementation and accessibility
-- Scalable application architecture
+Web development, software testing, UI/UX, and agentic AI.
 
-I also volunteer at **DEVCON Manila events**, where I engage with the local developer community and continue learning from the technology ecosystem.
+Volunteer at DEVCON Manila events.
 
 ---
 
-## 🤝 Let's Connect
+*Currently open to software development and QA opportunities.*
 
-I'm open to opportunities in **Full-Stack Development, Software Development, Frontend Development, and Quality Assurance**.
-
-If you're working on something interesting or looking for someone passionate about building and improving software, let's connect!
-
-- 🌐 Portfolio: [johnrenz.vercel.app](https://johnrenz.vercel.app/)
-- 💼 LinkedIn: [linkedin.com/in/john-renz-96a77728b](https://linkedin.com/in/john-renz-96a77728b)
-- 📧 Email: [johnrenzbandianon9@gmail.com](mailto:johnrenzbandianon9@gmail.com)
-
----
-
-*Building, testing, learning, and improving—one project at a time.*
